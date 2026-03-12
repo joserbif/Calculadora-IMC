@@ -1,0 +1,7 @@
+D:\Projetos\IMC\IMC\bin\Debug\IMC.exe.config
+D:\Projetos\IMC\IMC\bin\Debug\IMC.exe
+D:\Projetos\IMC\IMC\bin\Debug\IMC.pdb
+D:\Projetos\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+D:\Projetos\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+D:\Projetos\IMC\IMC\obj\Debug\IMC.exe
+D:\Projetos\IMC\IMC\obj\Debug\IMC.pdb
